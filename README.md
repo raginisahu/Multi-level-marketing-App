@@ -1,2 +1,1 @@
-# demo
-demo app
+# mlm-application

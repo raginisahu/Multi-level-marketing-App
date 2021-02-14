@@ -1,0 +1,40 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.20",
+    "@fortawesome/free-solid-svg-icons": "5.13.0",
+    "@fortawesome/react-fontawesome": "0.1.9",
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-navigation/drawer": "^5.8.2",
+    "@react-navigation/native": "^5.5.1",
+    "@react-navigation/stack": "^5.4.2",
+    "expo": "^37.0.12",
+    "expo-linear-gradient": "~8.1.0",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-fontawesome": "7.0.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-onesignal": "^3.8.1",
+    "react-native-paper": "3.6.0",
+    "react-native-razorpay": "^2.1.33",
+    "react-native-reanimated": "^1.7.1",
+    "react-native-router-flux": "4.2.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.2.0",
+    "react-native-web": "~0.11.7",
+    "react-native-webview": "^10.2.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~8.1.0",
+    "@babel/core": "^7.8.6"
+  },
+  "private": true
+}
